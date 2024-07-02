@@ -4,9 +4,8 @@ spring:
 
 telegram:
   bot:
-    token:
     #      Insert bot token. Example "1231312:jdhsjhfksjdfh"
-    name:
+  name:
     #      Insert bot name. Example "my_test_bot"
 server:
   port: 8080
