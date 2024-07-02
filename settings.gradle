@@ -1,0 +1,4 @@
+rootProject.name = 'payhub'
+
+include 'bogdanov-middle-service'
+include 'bogdanov-telegram-bot'

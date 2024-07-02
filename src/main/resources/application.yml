@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: RunnerForTwoApplication
+
+telegram:
+  bot:
+    token:
+    #      Insert bot token. Example "1231312:jdhsjhfksjdfh"
+    name:
+    #      Insert bot name. Example "my_test_bot"
+server:
+  port: 8080
+
+middle-server:
+  url:
+    http://localhost:8080
+
+backend-server:
+    url: http://84.201.135.27:8080
